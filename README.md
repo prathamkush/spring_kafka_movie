@@ -1,3 +1,3 @@
 -> Added movie database (mongodb)
 -> continuous consuming (Listener) 
--> [https://github.com/prathamkush/spring_kafka_movie.git](https://github.com/prathamkush/spring_kafka_movie.git)
+-> [https://www.getpostman.com/collections/b79af29afcec5ed33da8](https://www.getpostman.com/collections/b79af29afcec5ed33da8)
